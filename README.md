@@ -1,7 +1,7 @@
 # fashion-MNIST-Image-Classification
 
-##google colab link:[https://colab.research.google.com/drive/1eNoyVSz73CJTTtI23won4TolYwnUvQMJ](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv?usp=sharing)
-
+##google colab link:[[https://colab.research.google.com/drive/1eNoyVSz73CJTTtI23won4TolYwnUvQMJ](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv?usp=sharing)
+](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv#scrollTo=N-ieJZN9C5ID)
 #Question:
 ###1. What is the Fashion MNIST dataset?
 The Fashion MNIST dataset is a collection of small grayscale images that show different types of clothing. It is commonly used to train and test machine learning models, especially in image classification. The dataset contains 70,000 images in total, where 60,000 are used for training and 10,000 are used for testing. Each image is 28 by 28 pixels and belongs to one of ten clothing categories such as shirts, shoes, bags, and dresses. It was created to replace the original MNIST handwritten digit dataset and provide a slightly more realistic and challenging task.
