@@ -1,6 +1,6 @@
 # fashion-MNIST-Image-Classification
 
-##google colab link:https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv#scrollTo=PBAE3Ao5B_Qj
+##google colab link:[https://colab.research.google.com/drive/1eNoyVSz73CJTTtI23won4TolYwnUvQMJ](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv?usp=sharing)
 
 #Question:
 ###1. What is the Fashion MNIST dataset?
@@ -14,3 +14,5 @@
 ###5. Compare the predicted label and actual label for the first test image.
 
 ###6. What could be done to improve the model’s accuracy?
+
+##
