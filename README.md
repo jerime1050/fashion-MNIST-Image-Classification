@@ -1,4 +1,4 @@
-# Tagalog-Jerime_LW1_Image_Classification
+# fashion-MNIST-Image-Classification
 
 ##google colab link:[[https://colab.research.google.com/drive/1eNoyVSz73CJTTtI23won4TolYwnUvQMJ](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv?usp=sharing)
 ](https://colab.research.google.com/drive/1UBckB08lLFyktR0alqDpVAjRkmN54uZv#scrollTo=N-ieJZN9C5ID)
